@@ -1,0 +1,9 @@
+[submodule "Projects/Earbuds/earbuds-git"]
+	path = Projects/Earbuds/earbuds-git
+	url = ssh://aur@aur.archlinux.org/earbuds-git.git
+[submodule "Projects/Earbuds/earbuds-xdg-git"]
+	path = Projects/Earbuds/earbuds-xdg-git
+	url = ssh://aur@aur.archlinux.org/earbuds-xdg-git.git
+[submodule "Projects/Earbuds/LiveBudsCli"]
+	path = Projects/Earbuds/LiveBudsCli
+	url = git@github.com:erayaydin/LiveBudsCli.git
